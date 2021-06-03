@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of books being the apendix promised in the last catalogue which are to be sold by way of auction the last day of March being on Friday. The books are to be seen three dayes before the day sale, from ten till 12 in the forenoon, and from 2 to 5 in the afternoon, in the Parliament-Closs, the highest story of the Kirk Heugh stairs where a placad [sic] will be affixed on the entry of the stairs and as ye enter the House.  The catalogue are to had [sic] at Alexander Hendersons shop, book-seller in the Locken-booths.  The time of sale is betwixt 10 and 12 in the forenoon 2 and 6 in the afternoon.</title>
+         </titleStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01937</idno><idno type="EEBO-CITATION">52211731</idno>
+  <idno type="VID">175546</idno>
+  <idno type="EEBO-PROQUEST">2240859629</idno>
+  
+            <idno type="STC">Wing C1279A</idno>
+            <idno type="STC">ESTC R173582</idno>
+            <idno type="OCLC">52211731</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B01937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175546)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2739:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of books being the apendix promised in the last catalogue which are to be sold by way of auction the last day of March being on Friday. The books are to be seen three dayes before the day sale, from ten till 12 in the forenoon, and from 2 to 5 in the afternoon, in the Parliament-Closs, the highest story of the Kirk Heugh stairs where a placad [sic] will be affixed on the entry of the stairs and as ye enter the House.  The catalogue are to had [sic] at Alexander Hendersons shop, book-seller in the Locken-booths.  The time of sale is betwixt 10 and 12 in the forenoon 2 and 6 in the afternoon.</title>
+               </titleStmt>
+               <extent>[2], 3-27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Printed in the year, 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 10 misnumbered '18'.</note>
+                  <note>Imperfect: print show-through; tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catalogs, Booksellers' --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term type="topical_term">Auctions --  Scotland --  Edinburgh --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175546:1"/>
+            <pb facs="tcp:175546:1"/>
+            <p>A CATALOGUE OF BOOKS Being the Apendix promised in the last Catalogue Which are to be sold by way of AUCTION The last day of <hi>March</hi> being on Friday.</p>
+            <p>The Books are to be seen Three dayes before the day sale, from Ten till 12 in the Forenoon, and from 2 to 5 in the Afternoon, in the Parliament-Closs, the highest story of the Kirk Heugh stairs where a placad will be affixed on the Entry of the stairs and as ye enter the House. The Catalogue are to had at <hi>Alexander Hendersons</hi> shop, Book-seller in the Locken-booths.</p>
+            <p>
+               <hi>The time of sale is Betwixt</hi> 10 <hi>and</hi> 12 <hi>in the foreno on</hi> 2 <hi>and</hi> 6 <hi>in the Afternoon</hi>
+            </p>
+            <p>EDINBURGH Printed in the Year, 1693.</p>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:175546:2"/>
+            <head>The Conditions of sale are,</head>
+            <list>
+               <item>1. HE who bids most is the Buyer.</item>
+               <item>2. If any difference arise anent the oflers the Books shall be of new exposcd to sale.</item>
+               <item>3. He who payes not his Money presently, is to give Earnest, to take them away and pay his Mo<g ref="char:EOLhyphen"/>ney before the next day the Auction begin; O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> else to lose his Earnest, and the Books to be put to sale again.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <head>ADVERTISEMENT</head>
+            <p>What Books shall happen to be Unsold at th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Auction, may be had afterwards.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue_of_books">
+            <pb n="3" facs="tcp:175546:2"/>
+            <head>A CATALOGUE OF BOOKS</head>
+            <list>
+               <head>BOOKS IN FOLIO</head>
+               <item>HOrton on the eight of the Romans <hi>London</hi> 74</item>
+               <item>— On four select Psalms, ibid 75</item>
+               <item>— 100 select sermons ibid 79</item>
+               <item>Diodats annotations ibid 74</item>
+               <item>Acts of Parliament of King Ja: 6th Charles 1 and 2</item>
+               <item>Burges upon original sin ibid 59</item>
+               <item>Bp: Bilsons survey of Christs sufferings ibid 04</item>
+               <item>Sedgwicks Bowels of mercy sealed ibid 61</item>
+               <item>Stock and Torshel there Commentaries on Mal.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Rycauts present state of the ottoman Empyre.</item>
+               <item>Gouge upon the Hebrews. ibid 55</item>
+               <item>Jermin upon the Proverbs ibid 58</item>
+               <item>Chimnicii examen concilii Tridentini. <hi>Genev</hi> 34</item>
+               <item>Willets Hexapla on Genesis and Exodus <hi>Lond:</hi> 32</item>
+               <item>Rogers seven Treatises. ibid 03</item>
+               <item>Hildersham on the fourth of John ibid 32</item>
+               <item>Surius &amp; Mofander de fanctorum vitis</item>
+               <item>Bellarmini disputationes. <hi>Boloniae</hi> 15</item>
+               <pb n="4" facs="tcp:175546:3"/>
+               <item> Baradii Coment: in Quatuor Evangilistas,</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> Supplement to the morning exercise, <hi>London</hi> 79</item>
+               <item>Bakers Cronicle ibid 45</item>
+               <item>Les politiques D'Aristote <hi>Paris</hi> 1576</item>
+               <item>Aquinatis coment: in Arist: politicos. ibid 45</item>
+               <item>Calvini Lexicon Juridicum <hi>Genevae</hi> 40</item>
+               <item>Spiegelii Lexicon Juris civilis. <hi>Basiliae</hi> 1579</item>
+               <item>Spanhemii Laudatio funebris nassoviae comitis <hi>lugd</hi>
+               </item>
+               <item>Everardi responsa sive consilia <hi>Lovaniae</hi> 1554</item>
+               <item>Shutes triumphes of Nasso, <hi>Lond</hi> 13</item>
+               <item>Thucydidis Historia <hi>Coloniae</hi> 1550</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> Perezi praelectiones in codicem, <hi>Lovaniae</hi> 42</item>
+               <item>Acts of Parli: of Kin Ja: Tholdend at west:</item>
+               <item>Reuchlini Lexicon &amp; Gramtica Hebreum <hi>Basil</hi> 37</item>
+               <item>Cornelii Taciti opera. <hi>Ant:</hi> 1589</item>
+               <item>Hermani obsidio Bredana &amp; Grotii obsidio Groilla</item>
+               <item>Cujacii Jurisconsulti commen: <hi>Amstelodami</hi> 29</item>
+               <item>Du Grand Art D'Artillerie. <hi>Francofortiae</hi> 57</item>
+               <item>L'art militaire pour L'infanterie</item>
+               <item>Molineus in consuetudines parisienses. <hi>Coloniae</hi> 13</item>
+               <item>Crooks character of the Hypocrite. <hi>London</hi> 58</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="40"/> Part on the Romans ibid 33</item>
+               <item>Chamierus contractus. <hi>Genev</hi> 45</item>
+               <item>Dounam's guide to GOD <hi>London</hi> 27</item>
+               <item>Hierons works ibid 21</item>
+               <item>Hall on Government and obedience. ibid 54</item>
+               <item>Fenners works. ibid 57</item>
+               <item>Knipshildt Tractatus de Jure: &amp; priveligiis imperialium 1657</item>
+               <item>Whites works <hi>London</hi> 24</item>
+               <item>Owen on the spirit ibid 74</item>
+               <item>Zoesii comment: in pandectas <hi>Livaniae</hi> 67</item>
+               <pb n="5" facs="tcp:175546:3"/>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="50"/> The Acts of Parliament of the six James <hi>Edin</hi>
+               </item>
+               <item>Barnes four Books of offices. <hi>London</hi> 06</item>
+               <item>Colinson's perfect Accomptant. <hi>Edinburgh</hi> 83</item>
+               <item>Aquinatis comment in omnes Epist: Pauli <hi>Ant</hi> 20</item>
+               <item>Cujacii opera omnia. <hi>Francoforti</hi> 1595</item>
+               <item>Le Blanc Theses Theologiae <hi>London</hi> 83</item>
+               <item>English Annotations on the Bible, 2 vol ibid 61</item>
+               <item>Augustin on the City of GOD. ibid: 20</item>
+               <item>Agricola de metellis <hi>Basiliae</hi> 1561</item>
+               <item>Augustini Epitome 1555</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="60"/> Aretius in Novum Testamentum. <hi>Genev:</hi> 18</item>
+               <item>— Problemata. 1617</item>
+               <item>Beza in Novum Testamentum 1618</item>
+               <item>Babingtons works <hi>London</hi> 22</item>
+               <item>Bullingerus in Isaiam <hi>Tigurii</hi> 1567</item>
+               <item>Bedae Tomus Quartus. <hi>Coioniae</hi> 12</item>
+               <item>Boyes Works. <hi>London</hi> 29</item>
+               <item>Calvinus in Genesin. 1558</item>
+               <item>Davenantii praelectiones. <hi>Cantabrigae</hi> 34</item>
+               <item>Dogenis Architectura militaris.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="70"/> Flinspachii Geneologia Christi. <hi>Basil:</hi> 1597</item>
+               <item>Fabricius in prophetas minores. <hi>Bernae</hi> 41</item>
+               <item>— in Psalmos, <hi>Aureliae:</hi> 22</item>
+               <item>Hugo (Cardinal) in Psalmos. <hi>Parisiis</hi> 33</item>
+               <item>Himmingius in Joannem. <hi>Basiliae:</hi> 91</item>
+               <item>Hals works the 1 volum <hi>London</hi> 41</item>
+               <item>Lavaterus in Jobum <hi>Tiguri</hi> 41</item>
+               <item>— in Josuam, ibid: 1578</item>
+               <item>— in Proverbia. ibid: 1586</item>
+               <item>Marolois de arte muniendi. <hi>Amstelodami</hi> 44</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="80"/> Major in Quatuor Evangelia</item>
+               <item>Martyris Loci communes. <hi>Heidelburgi</hi> 03</item>
+               <pb n="6" facs="tcp:175546:4"/>
+               <item> Martini Arithmetica,</item>
+               <item>Martyr in Samuelem, <hi>Tigurii</hi> 7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>— in judices ibid 1578</item>
+               <item>— on the Romans <hi>London</hi>
+               </item>
+               <item>Mayer on the prophets ibid 52</item>
+               <item>Musculus in Psalmos. <hi>Basili<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Newmans concordance <hi>London</hi> 50</item>
+               <item>Piscatoris opera, 2 vol: <hi>Francofortii</hi> 38</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="90"/> Parei opera Theologica, 2 vol: <hi>Francof</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Prideaux prelectiones. <hi>Oxoniae</hi> 48</item>
+               <item>Quirinus in proverbia, 2 vol: <hi>Parisiis</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Scapulae lexicon. <hi>Londoni</hi> 37</item>
+               <item>Stows history of England. <hi>London</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Smith on the Creed. <hi>London</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Stella in Lucam, <hi>Amst:</hi> 43</item>
+               <item>Sibelii opera, 2 vol <hi>Amst:</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Twissii Vindicae gratiae <hi>Lond</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Thomas Taylors works ibid: 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="100"/> Trap on the minor Prophets <hi>London</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Ushers body of Divinity ibid 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Ursins body of Divinity; ibid 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Ursini opera, 2 vol: <hi>Nor:</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Willet on Geneses and Exodus. <hi>London</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Willet on Leviticus ibid 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Willet on Daniel ibid 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Wilcoks works ibid 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Zanchius de natura Dei. <hi>Nonstadii</hi> 10</item>
+               <item>Jermin on the Proverbs and Ecclesiastes <hi>Lond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="110"/> Soaves History of the Council of Trent ibid 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Vireti opera. 155<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Rosweldi vita patrum. <hi>Lugd</hi> 161<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Le page Bibliothica premonstratensis ordinis <hi>Ga<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <pb n="7" facs="tcp:175546:4"/>
+               <item> Twissii vindiciae Gratiae <hi>Amst</hi> 32</item>
+               <item>Fox martyrologie in 3 vol <hi>Lard</hi> 41</item>
+               <item>Homeri opera Gre: Latina <hi>Bafiliae</hi> 61</item>
+               <item>Cowleys works. <hi>Lond</hi> 24</item>
+               <item>Whites works ibid 72</item>
+               <item>La Bibliotheque universelle, <hi>Parisiis</hi> 49</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="120"/> Nazianzeni operum Tomi Tres. <hi>Bagliae</hi> 1471</item>
+               <item>Bodius in Ephesios <hi>Lond</hi> 52</item>
+               <item>Calvins institutions, ibid 34</item>
+               <item>Comptoni phylosophia: universa</item>
+               <item>Menochius de adipiscenda &amp; retienda possessione.</item>
+               <item>Ravanelli Bibliotheca sacra <hi>Genev</hi> 50</item>
+               <item>Aquinas contra Gentiles, <hi>Lugd</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6</item>
+               <item>Marlorati Thesaurus Locorum comunium <hi>Lond:</hi>
+               </item>
+               <item>— In Novum Testamentum, <hi>Genex:</hi> 1564</item>
+               <item>Zanchius de natura dei 1619</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="130"/> Veslingii anatomia <hi>Pataviae</hi> 37</item>
+               <item>Coccii Thesaurus catholicus, 3 vol: <hi>Col</hi> 01</item>
+               <item>Baillii opus Historicum <hi>Amst</hi> 68</item>
+               <item>Laurentii Historia anatomica: <hi>Fran:</hi>
+               </item>
+               <item>Reiseri Augustinus <hi>Fran</hi> 38</item>
+               <item>Schimmidii concordantia novi Testamenti <hi>Wis</hi> 38</item>
+               <item>Twisse de scientia media <hi>Arnhe</hi> 39</item>
+               <item>Bp Lakes works. <hi>Lond</hi> 29</item>
+               <item>Calpini Dictionarum <hi>Basil:</hi>
+               </item>
+               <item>Jovii opera <hi>Basil</hi> 78</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="140"/> Josephi Hist: Judeorum <hi>Fran</hi> 80</item>
+               <item>Minishaeis guide unto the tongues <hi>Lon:</hi> 27</item>
+               <item>Calderwoods Hist of the true Church of Scotland.</item>
+               <item>Pembles works <hi>Oxfoord</hi> 1659</item>
+               <item>Roberts Key to the Holy Bible. <hi>London</hi> 75</item>
+               <item>Alcoran Mahometis cum confutatione 1550</item>
+               <pb n="8" facs="tcp:175546:5"/>
+               <item> Cotgraves French and English Dictionary <hi>Lond:</hi>
+               </item>
+               <item>Stevins memoires mathematiques 168<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <head>BOOKS in QƲARTO</head>
+               <item>BIblia Junii &amp; Tremellii. <hi>Hannovlae</hi> 1602</item>
+               <item>Wesenbesecius in Institutiones, <hi>Wittebergae</hi> 09</item>
+               <item>Suarez repurgatus. <hi>Lugduni</hi> 48</item>
+               <item>Riveti Theses Theologicae. <hi>Amstelodami</hi> 1602</item>
+               <item>Hartwiss Theatrum concionum. <hi>Basiliae</hi> 1670</item>
+               <item>Aretini tractatus de maleficiis. <hi>Coloniae</hi> 99</item>
+               <item>Historia Venetiana, <hi>Venetiae</hi> 05</item>
+               <item>Connestagio Delle Guerre della Germania</item>
+               <item>Historia delle guerre del conte Galeazzo.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Siege de Bergues sur-le-soom, <hi>Meddelburg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>L'estat deleglise avec le discours des temps</item>
+               <item>Depuis les apostres jusques au present,</item>
+               <item>Del'istorie d'Iralia:</item>
+               <item>Vitruve Architecture: 18</item>
+               <item>Rovenii institutiones Christianae pietatis: 35</item>
+               <item>Leonis ab Aitzema Historia pacis foederati Belgii</item>
+               <item>Gail observationes practicae. <hi>Coloniae</hi> 21</item>
+               <item>Everarti Ephemerides, <hi>Lugduni Battavorum</hi> 1597</item>
+               <item>Treutleri jurisconsulti selectae disputat: <hi>Frank.</hi> 39</item>
+               <item>Lipsi epistolae <hi>Lugd:</hi> 1590</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> Connani comment. juris civilis, <hi>Honav:</hi> 10</item>
+               <item>Fabri consultatio de montis fcrrati Ducatu contra Ducem mantuae: <hi>Lugd.</hi> 17</item>
+               <item>Stephani constitutiones Caroli Quinti <hi>Frank.</hi> 78</item>
+               <item>Pagnini Grammatica Hebraea, <hi>Parisis</hi> 153<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Faber de Erroribus pragmaticorum &amp; interpretum</item>
+               <item>Juris 3 Volumn. <hi>Lugduni Battavorum</hi>
+               </item>
+               <pb n="9" facs="tcp:175546:5"/>
+               <item> Lubberti responsio ad pietatem Hugonis G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ii</item>
+               <item>Neostadii Tractatus de Origine Feudi Holandici</item>
+               <item>Rutherfoords divine Right of Church government</item>
+               <item>Whatleys new birth, <hi>Londini</hi> 1622</item>
+               <item>Boulenger La Geometrie Pratique <hi>Paris</hi> 41</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> Theodori Reinfingt Tractatus de retractu</item>
+               <item>Consanguinitatis. <hi>Marpurgii</hi> 71</item>
+               <item>Le dixiesme d'amadis de Gaule. 1573</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ruvii dissertationes de vindicta privata, <hi>Je<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>:</hi> 78</item>
+               <item>Helmoldi Chronica slavorum <hi>Franeoforii</hi> 1573</item>
+               <item>Vinnius in institutiones. <hi>Amstelodami</hi> 50</item>
+               <item>Paridis de puteo Tractatus de finibus feudorum, <hi>Noriberge</hi> 77</item>
+               <item>Wissenbachii disputationes ad instituta</item>
+               <item>Imperialia. <hi>Frankerae</hi> 66</item>
+               <item>Mornaii Responsio ad Librum Ebroracen<g ref="char:EOLhyphen"/>sis EPISCOPI. <hi>Francofurti</hi> 18</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oannes a sandes decisiones frisicae. <hi>Leovardi</hi> 1659</item>
+               <item>Imberti institutiones forenses Galliae.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="40"/> Petri Fabri semestrium Liber duo, <hi>Lugd:</hi> 1590</item>
+               <item>Disputationes feudales Quindecem in academia marpurgensi <hi>Margurgi</hi> 04</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ceronis operum Tomus tertius</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ephani Dictionarium geographscum poeticum.</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orpus juris civilis 2 volumina.</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rown de causa Dei 2 Volumina. <hi>Roterdami.</hi> 74</item>
+               <item>Matthei collegia juris sex. <hi>Frankerae</hi> 57</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bbot on Jonah. <hi>Londini</hi> 1600</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>stedii Theologia prophetica.</item>
+               <item>Arraigment of the Creature. 1632</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="50"/> Ask<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w on Brotherly Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onoilment</item>
+               <item>Defence against the poison of prophecies</item>
+               <pb n="18" facs="tcp:175546:6"/>
+               <item> Buntings Travels of the Patriarchs,</item>
+               <item>Bennefeild on Amos <hi>London</hi> 29</item>
+               <item>Maine on the 1 and 2 Chap: Coloss: ibid. 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Barlow on the second of Timothy. ibid. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>The Holy BIBLE.</item>
+               <item>Clarius in spherum sacro bosci, <hi>lugduni bat.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Philippi camerarii opera. <hi>francofurti</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Clarius in spherum sacro bosci. <hi>gervastii</hi> 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="60"/> Calvinus in Epistolas <hi>genevae</hi> 154<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Commentarie on the Lamentations <hi>lond:</hi> 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Dictionarium Francoise Latine. 160<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Diest conciones penitentiales: <hi>Herderie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Downs certain Treatises. <hi>Oxford</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Tabricius in Decalogum. <hi>Ber<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Greenhilon Ezeck: to the 19 Chapter in 3 volums. <hi>London</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Gheardus in duas Epist: Petri. <hi>Jenae:</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Hull on the Lamentations. <hi>londen</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Hummii specimen contraversiarum. <hi>lugduni bat:</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Laveterus in Josuam.</item>
+               <item>Laveterus in Ezram. <hi>Tiguri</hi> 154<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="70"/> Mayer on the difficult places of Scripture. 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Malcomus in Acta Apostolorum. 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Marbury on Habbacuk. <hi>london</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Ovidii Metamorphosis.</item>
+               <item>Polandus in Daniaelem. <hi>basiliae</hi> 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Perkins on the Galatians. <hi>london</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Pilkingtoun on Nehemiah. <hi>lugduni batavor:</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Peckii Harmonia. <hi>lugduni baravorum</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Queen of Tartaria a play. <hi>london</hi> 7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Ruvius in Aristotelem, 3 vol: 162<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="80"/> Rollensons prophetical Legacie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>london</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <pb n="11" facs="tcp:175546:6"/>
+               <item> Rainold in Obediah. <hi>Oxford</hi> 03</item>
+               <item>Sibellius in Apocalapsin. <hi>Amstelodami</hi> 37</item>
+               <item>Speculum Belli sacri. 1624</item>
+               <item>Schotani conciones. <hi>frankerae</hi> 44</item>
+               <item>Sanctius in Zachariam <hi>lugduni batavorum</hi> 17</item>
+               <item>Sclatter on Malachy. <hi>london</hi> 50</item>
+               <item>Tryal of Wits.</item>
+               <item>Taylor on Titus. <hi>london</hi> 19</item>
+               <item>Walleus contra Arnoldum <hi>lugduni bati</hi> 25</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="90"/> Williams golden Candlesticks <hi>london</hi> 27</item>
+               <item>Wilet on Samuel ibid: 07</item>
+               <item>Rutherfoords spiritual Antichrist: ibid: 48</item>
+               <item>Rutherfoords Pauls presbytry. ibid: 42</item>
+               <item>The Confession of Faith. ibid: 58</item>
+               <item>Discriptio Britanicae Scotiae Hyberniae &amp; orcaduns.</item>
+               <item>Prestons new Covenant. ibid: 39</item>
+               <item>— on the cxxx psalm. ibid: 80</item>
+               <item>Owens on spiritual mindedness. ibid: 41</item>
+               <item>The Morning exercise against popery ibid: 75</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="100"/> Gillespie on the Covenant. ibid: 37</item>
+               <item>Prestons breast plate of Faith. ibid: 51</item>
+               <item>Tesoro Las Tres Linguas Espan: fran: <hi>Hal:</hi> 71</item>
+               <item>Corpus juris civilis 1546</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>anhemii dubia Evangelia, 2 vol: <hi>Genevae</hi> 37</item>
+               <item>Martyris Ethica. 1590</item>
+               <item>Evangelia Gothice &amp; Anglo saxonice.</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oet physiologia <hi>Amstel:</hi> 71</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontani opera, 2 vol: <hi>b<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>siliae</hi> 1538</item>
+               <item>Manton on James. <hi>london.</hi> 51</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="110"/> Clerks Lives of Eminent Divines ibid: 62</item>
+               <item>Case's prospect of Heaven. ibid: 70</item>
+               <item>Sown against the Quakers ibid: 70</item>
+               <item>Rutherfoords spiritual Antichr ist. ibid: 48</item>
+               <pb n="12" facs="tcp:175546:7"/>
+               <item> Triglandii systema disputationum Theo<g ref="char:EOLhyphen"/>log: contra. Remonstrantes. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Sclater upon the Thessalonians. ibid: <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Owens Enquiry into the power and order of</item>
+               <item>Churches against Stilling fleet. <hi>London</hi> 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Broun de causa dei. <hi>Roterdami</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>The History of independency 164<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Alstedi methodus Theologiae <hi>Hanoriae</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="120"/> Tirini Synopsis Theologiae Elenchticae <hi>Gro:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Rosini antiquitates Romanorum. <hi>Coliniae</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Downams defence of the sermon preached at the conseration of the Bp: of Bath &amp; wels: <hi>Lond:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Patricks parable of the Pilgrim: <hi>London</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Strangius de voluntate Dei. <hi>Amstelodami</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Sadeelis Chamdei opera Theologica 15<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Baxters right to Sacraments <hi>London</hi> 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Complutensis opera, 4 volum: <hi>Lugduni Bat</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Pareus in Genesin <hi>Genevae</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Primauday's French academie <hi>London</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="130"/> Becani Manuale contraversiarum <hi>Herb:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Polani syntagma Theologiae, 2 vol: <hi>Han:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Bettini aetarium phlosophiae mathemetica, 3 v<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Pareus in matheum. <hi>Oxoniae</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Luther on the Galatians. <hi>London</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Cameronis praelectiones de Ecclesia <hi>Salmuri</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Hornei disputationes Theologicae <hi>Helmistadi</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Amesius in psalmos. <hi>Amstelodami</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Granadi commentar: in sanctum Thomam. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Sharpii cursus Theologicus, <hi>Aureliae</hi> 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="140"/> Raynolds three treatisies <hi>London</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Smiths Essexs Dove: ibid 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Richteri axiomata Ecclesiastica 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <pb n="13" facs="tcp:175546:7"/>
+               <item> Plempius de fundamentiis medicinae 1638</item>
+               <item>Altingi Loci communes. <hi>Amstelodami</hi> 46</item>
+               <item>Piscator in novum Testamentum. <hi>Hehroniae</hi> 31</item>
+               <item>Antonii Ars medica <hi>Veneius</hi> 1565</item>
+               <item>Bravi medicinae Tyrocinium practicum <hi>Col</hi> 71</item>
+               <item>Herris GODS Goodness and mercy, <hi>London</hi> 26</item>
+               <item>Stierii praecepta philosophiae. ibid 59</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="150"/> Vendilini physica <hi>Contabrige</hi>
+               </item>
+               <item>Broun de causa dei <hi>Roterdami</hi> 78</item>
+               <item>Plinii panagyricus</item>
+               <item>Bonhams chyrurgians closet, <hi>London</hi>
+               </item>
+               <item>Merchistoni Logorithma <hi>Edinburgh</hi> 14</item>
+               <item>Corpus juris civilis <hi>Lugduni Batavorum</hi> 52</item>
+               <item>Psalmi Proverbia Ecclesiastes Hebraice &amp; Latine.</item>
+               <item>La Astre divise in Tres parties <hi>Parisiis</hi> 12</item>
+               <item>Mysengeri Apotolesma <hi>Genevae</hi> 11</item>
+               <item>Brown against the Quakers <hi>Edinburgh</hi> 78</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="160"/> Ruvius commentar in Arist de Auscultatione</item>
+               <item>The Treasure of Eunonymus.</item>
+            </list>
+            <list>
+               <head>BOOKS in OCTAVO</head>
+               <item>ALstedii Lexicon theologicum <hi>Hanoviae</hi> 20</item>
+               <item>Alstedii clavis <hi>Argentorati</hi> 09</item>
+               <item>— Compendium phylosophicum <hi>Herborne</hi> 26</item>
+               <item>Amesius in duoas episstolas petri <hi>Londoni</hi> 49</item>
+               <item>Apheridiani formula docendi Linguam Latinam.</item>
+               <item>Brandmylleri conciones <hi>Honavist</hi> 03</item>
+               <item>Buxtorphi grammatica Hebrea. <hi>Amstelodami</hi> 25</item>
+               <item>Biblia sacra cum anotationibus. <hi>Basiliae</hi>
+               </item>
+               <item>Buxtorphi lexicon <hi>Basiliae</hi> 21</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Brighteus de sanitate tuenda <hi>Francoforti</hi> 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <pb n="14" facs="tcp:175546:8"/>
+               <item> Bucani loci communes <hi>Geneva</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Bellarminus enervatus Tom: 3 &amp; 4 <hi>Amstet:</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Crocius in ephesios 154<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Chimnicii examen concilii tridentini <hi>Franc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Costaneae distinctiones <hi>Coloniae</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Canones concilii Tridentini ibid 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Carranzae summa conciliorum <hi>Antwerpuae</hi> 1569</item>
+               <item>Crotius in Titum <hi>Caselliis</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Commenii Janua Linguarum, <hi>Arnhemii</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> Caninii (Angeli) hellenismus <hi>Londoniae</hi> 152<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Dictionarium latino Gallicum <hi>parisiis</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Doctrina Jesuitatum 158<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Diests mallificium catecheticum <hi>Davchtriae</hi> 155<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Danaeus de natura hominis 158<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Danaei physica christiana 158<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Donatus de octo partibus orationis</item>
+               <item>Dialogi Sacri, <hi>contarbrig</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Aesopi fabulae <hi>Londoniae</hi> 27</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> Epitome Adagiorum Erasmi <hi>Witteberg</hi> 24</item>
+               <item>Epitome Adagiorum Erasmi <hi>Amstelodami</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Ferus in matthaeum. <hi>Lugduni Batavorum</hi> 08</item>
+               <item>Fernelius de methodo medendi,</item>
+               <item>Ferus in matthaeum <hi>Lugd</hi> 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Fermeus in Romanos <hi>Edin:</hi> 51</item>
+               <item>Fenneri Theologia <hi>Lond:</hi> 34</item>
+               <item>Gellii noctes atticae <hi>Lugd:</hi> 58</item>
+               <item>Hermet is Trismegistri Zoroaster <hi>Ham:</hi> 1582</item>
+               <item>Hemingius in psalmos 1582</item>
+               <item>Herborniae conciones</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="40"/> Heidfeldii Sphinx theologiae 1620</item>
+               <item>Hemingius de pastore <hi>Genov.</hi> 1589</item>
+               <item>Hiks path way to piety. <hi>london</hi> 29</item>
+               <pb n="15" facs="tcp:175546:8"/>
+               <item> Haks Epistles. <hi>london</hi> 08</item>
+               <item>Luther in Isaiam. <hi>Parisiis</hi> 557</item>
+               <item>Lambardi sententiae.</item>
+               <item>Martini praxis. <hi>croningiae</hi> 51</item>
+               <item>Martinus in Evangelia Dominicalia ibid. 53</item>
+               <item>Meliandri joco seria. 1611</item>
+               <item>Melanctonis phylosophia moralis. <hi>lugduni</hi> 1542</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="50"/> Myllii meletemata catechetica <hi>Amstelodami</hi> 54</item>
+               <item>Marand on humane actions <hi>london</hi> 29</item>
+               <item>Molineus de providentia Dei.</item>
+               <item>Peucerus de Divinationibus. <hi>Francofurti</hi> 1584</item>
+               <item>Pareus in ursinum. <hi>Neustadii</hi> 19</item>
+               <item>Pareus contra Bellarminum. <hi>Heidellerg:</hi> 17</item>
+               <item>Promptuarium morale <hi>coloniae</hi> 20</item>
+               <item>Piscator in Epistolas. <hi>lugduni:</hi> 1690</item>
+               <item>Psauti comaediae.</item>
+               <item>Plinii Historia mundi. <hi>lugduni:</hi> 1540</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="60"/> Piscator in Isaiam</item>
+               <item>Piscator in Epist: ad Romanos. <hi>Herb:</hi> 1530</item>
+               <item>Quintus curtius</item>
+               <item>A rationale upon the Service Book. <hi>london</hi> 64</item>
+               <item>Rami dialectica. <hi>colon:</hi> 1584</item>
+               <item>Rugii prelectiones. <hi>Wittemb:</hi> 14</item>
+               <item>Raimondi phylosophia <hi>coloniae</hi> 1583</item>
+               <item>Rollocus in Thessalonicenses <hi>Edinb:</hi> 1598</item>
+               <item>Simanca de repub: recte instituenda. <hi>coloniae</hi> 04</item>
+               <item>Schible<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i metayhysica. <hi>Gesse:</hi> 22</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="70"/> Systema Logices. <hi>Haenoriae</hi>
+               </item>
+               <item>Scaliger de causis Linguae Latinae 1580</item>
+               <item>Sculteti conciones. <hi>Gene<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> 10</item>
+               <item>Sculteti conciones. 1618</item>
+               <item>Schokii imperium maritimum <hi>Amstel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d:</hi> 54</item>
+               <pb n="16" facs="tcp:175546:9"/>
+               <item> Salmouth de statu maritali <hi>francofurti</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Tractatus de Sylogismo.</item>
+               <item>Tileni Syntagma. <hi>Fed:</hi> 161</item>
+               <item>Thesaurus Biblicus</item>
+               <item>Tirentius.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="80"/> Wallesii sacra phylosophia. <hi>francofurti</hi> 19</item>
+               <item>Wolphius in Epistolas.</item>
+               <item>Beloldus de Appellationibus. <hi>Tabigne</hi> 78</item>
+               <item>Caguinus de Francorum gestis.</item>
+               <item>Freigii Quaest: Aeconimicae &amp; politicae <hi>basil:</hi> 1578</item>
+               <item>Venatorii Enarratio codicis, <hi>colon:</hi> 158<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Niphus de pulchro &amp; amore, <hi>ludg:</hi> 154<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Senicae Tragediae, <hi>basil:</hi> 152<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Canones &amp; decreta concilii Tridentini, <hi>Antw:</hi> 156<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Longolii orationes:</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="90"/> Megiseri the saurus polyglottus, <hi>Brancof:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Cujacii paratitla, ibid: 161<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Ayala de jure &amp; officiis bellicis: <hi>Duaci</hi> 158<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Pacii Analysis institut: imperialium, <hi>ludg.</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Machiavelli disputationes, <hi>marpur.</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Del-Rius de Transactionibus, <hi>lug</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Justiniani Institutiones, <hi>Antwerp:</hi> 157<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Posselii calligraphia oratoria linguae Graecae, <hi>Gen:</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Pompeius festus de verborum significatione 153<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Machiavelli historia Florentina <hi>Argen:</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="100"/> Zuichemi comment: in decem tit: juris: 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Vulteii comment: ad tit: codicis qui sunt de jurisdictione, 163<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Boyles experiments concerning colours, <hi>london</hi> 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Gcedeus de sequestratione, <hi>Herberne</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Labitti index legum omnium <hi>lug.</hi> 7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Anchorani porta linguarum, <hi>lon:</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Widdringtouns contra Suarez de protest: papae: 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <pb n="17" facs="tcp:175546:9"/>
+               <item> Robertus Aurelius de rebus Judicatis. <hi>Geneve</hi> 45</item>
+               <item>Polyandri censura Thesium Antisynodalium. 29</item>
+               <item>Cochlaei Antiqua rescripta regum Ita<g ref="char:EOLhyphen"/>liae Gothicae gentis.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="110"/> Collegii Juridici disputationes viginti tres 35</item>
+               <item>Piloti Gallicae Linguae institutio. <hi>Paris</hi> 1534</item>
+               <item>Aarlorati Thefaurus Locorum communium. 1575</item>
+               <item>Terentius cum Notis 1611</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eckermanni systema Logicae. <hi>Francof.</hi> 25</item>
+               <item>Tennini Tractatus cautelarum. ibid: 1597</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eckeri clavis phylosophica <hi>Tubigne</hi> 13</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>culteti annales Evangelii. <hi>Heidel:</hi> 18</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iceronis Mistoria per consules descripta. 1509</item>
+               <item>Menochius de adipiscenda &amp; retinenda. possessione. 1572</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="120"/> Horatius cum notis Bondae <hi>Lond:</hi> 08</item>
+               <item>Les oevvores de Mr francois Rabelais 08</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lciatus de presumptionibus. <hi>Veneus</hi> 1561</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieterici institutiones dialecticae 42</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulteti idea concionum</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ongolii Epistolae. <hi>Basiliae</hi> 1510</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aranta de ordine judiciorum. <hi>Lugduni</hi> 1550</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrest: memorable du parlement de Tolose.</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>richii Enchiridion arestorum &amp; repressaliatum.</item>
+               <item>Bodinus de republica. <hi>Francoforti</hi> 1594</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="130"/> Keckermani collegium oratorium <hi>Han:</hi> 15</item>
+               <item>Grammatica Italica <hi>coloniae</hi> 41</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>istotelis organon.</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eschelii synonima Latino Greca 1618</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>accovii collegium Theologicum. <hi>Frankerie</hi> 21</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iveri Apologia pro Philippo. <hi>Lansbergio</hi> 02</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ondell de fortifier les places 84</item>
+               <pb n="18" facs="tcp:175546:10"/>
+               <item> Les Jesuistes mis sur Leschafaut. 49</item>
+               <item>Haywards Christs prayer upon the cross. <hi>Lond:</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Heereboordi Logica. <hi>Lugduni batavorum</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="140"/> Shoepperii institutiones Christianae <hi>Colon:</hi> 155<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Fontani medici comment: in Hippocratem.</item>
+               <item>De L' union &amp; reconcili: des Eglises Evangeliques</item>
+               <item>Alexandrini tract: 4 de Testamentis, &amp;c:</item>
+               <item>Hopperus in Psalmos: <hi>Antverpiae</hi> 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckermani Gymnasium Logicum. <hi>Han:</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Piscator in Genesin 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Patricius de institutione reipub: <hi>Parisiis</hi> 158<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Dictionarie novveau francois Latin. 165<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Pacii centuriae Legum conciliatarum <hi>col:</hi> 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="150"/> Halicarnassei antiquitatates Romani. 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Selectae aliquor orati: in Academia marpurgensi</item>
+               <item>Sevcri Historia sacra. <hi>Luguni batavorum</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Regneti ab o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stergaswel censura Belgica <hi>Trag:</hi> 48</item>
+               <item>Cardani comment: in Hippocraten de Alimento.</item>
+               <item>Ciceronis Epistolae familiares. 165<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Perezi institutiones imperiales. <hi>Lovanii</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Memoires de philppe de comines <hi>Alabagae</hi> 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Senec{que} des motz dorez des Quat: vertus cardinale<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Schorii Itinerarium Italiae. <hi>Antverpiae</hi> 160<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="160"/> Docaei Homiliae. ibid: 156<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Pareus in ursinum. <hi>Newstadii</hi> 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Vultei juris prudentia Romana. <hi>Marpurgi</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Bockelmanni compendium institutionum justin: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Peck<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icom: in Tit: juris ad rem Nauticā pertinenre</item>
+               <item>Osendorpius de usucapt onib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s &amp; pres riptionib<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Monsieur Seves <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e proces civil &amp; craminel <hi>Kova.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Aristotelis de Coelo, &amp;c.</item>
+               <item>Patricius de Regno &amp; Regis institutione.</item>
+               <item>Keckermanni systema retorices</item>
+               <pb n="19" facs="tcp:175546:10"/>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="170"/> Sleidani commentaria 1557</item>
+               <item>Besoldus de jure</item>
+               <item>Chronique &amp; Historie universele 1611</item>
+               <item>Scaliger de subtilitate <hi>Fran</hi> 07</item>
+               <item>Les ovvres de xenophon 1619</item>
+               <item>L'Argenis de L'Barclay <hi>Par:</hi> 27</item>
+               <item>Salmons medicina practica <hi>Lond</hi> 02</item>
+               <item>Heaven upon Earth being a legacy to Lond: by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. I.</item>
+               <item>Childregs rarities of Scotland England and Wales</item>
+               <item>Webs Historical Essay that the Language of of China is the Primitive.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="180"/> The life of Francis the Duke of Lorrain <hi>Lond</hi> 81</item>
+               <item>Phillippes Logarithmes ibid 77</item>
+               <item>M<seg rend="sup">c</seg>kenzie's moral Gallantry ibid. 85</item>
+               <item>A relation of the conquest of Flor: by the Spainard</item>
+               <item>Smith on the first Psalm ibid 27</item>
+               <item>Kirkwodi Grammatica ibid 77</item>
+               <item>Tolls Lady's Looking-Glass ibid 1661</item>
+               <item>Goodivins Evangelicall communicant ibid 57</item>
+               <item>The Glories &amp; Tri: of the Restitution of K: Cha: 2</item>
+               <item>Horatius cum notis variorum. <hi>Lugduni</hi> 58</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="190"/> Draks Bar against admission to the Lords supper</item>
+               <item>Buslchof on the Gout. <hi>London</hi> 1676</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leavelands poems orations and Letters ibid 77</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ovedayes Letters ibid 59</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohun concerning the properties of the wind <hi>Ox</hi> 71</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he policy of the clergy of France <hi>London</hi> 81</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Fathers legacy to his Children. ibid 78</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontiers present state of Europ ibid 84</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oud of witnesses ibid 70</item>
+               <item>Colvils Whigs supplication. ibid 81</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>offe House jests ibid 88</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thdrlands Hortus medicus Edinburgensis <hi>Ed</hi> 83</item>
+               <pb n="20" facs="tcp:175546:11"/>
+               <item> The History of the wars of Hungary <hi>London</hi> 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>The Unfortunate Voyage to Bengala ibid 168<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Philips Theatrum Poetarum. ibid. 167<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>The history of Hungaria and Transilvania. ibid</item>
+               <item>Vossii Rhetorica. <hi>Oxoniae</hi> 157<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>The Life of King Charles the second, <hi>Lond:</hi> 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Burgersdicii Logica, <hi>Cantabridgiae</hi> 167<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Medula historiae Scoticae <hi>Londini</hi> 168<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="210"/> Drummonds historie of the 6. K. James <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Gruteri animadversiones in opera Senecae. 9<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Mercatoris &amp; Beroaldi Chronologia, <hi>Basiliae</hi> 7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Hollerius in Aphorismos Hypocratis</item>
+               <item>Paulus de curandis morbis. <hi>Lugd:</hi> 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Coopers Domus Mosaicae clavis. <hi>Londini</hi> 167<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Hobbs Elementa philosophiae ibid: 165<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Cardanus de subtilitate. <hi>Basil<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Clau<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> de Battandier praxis causarum criminali<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Munsteri evangelium secundum Mat: haeb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="220"/> Apocrypha Graece &amp; latine.</item>
+               <item>Dinneri Epitheta graeca. <hi>Lugduni</hi> 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Glandvels Logica. <hi>Londini</hi> 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Westmonasteriensis Grammatica graeca. ibid</item>
+               <item>Augustinus contra pelagianos. <hi>Lovanii:</hi> 15<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>The vanity of judiciary Astrology, <hi>Lond:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Appollinanis Sidonii opera, <hi>Pdris</hi> 15<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Joannis a Someren Tractatus de jure Novercaru<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Pleux phylosophia rationalis, <hi>Lugduni</hi> 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Andrae Matthioli Epistolae Medicinales <hi>Lugd</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Scaliger de subtilitate. <hi>Hanno<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Dodonaei praxis medicae artis. <hi>Amstelod:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Fernelii universa medicina 2 vol: <hi>Lugd:</hi> 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Les Proverbs de Salamonaver une Explication,</item>
+               <pb n="21" facs="tcp:175546:11"/>
+               <item> Pererius de communibus omnium rerum principiis</item>
+               <item>Pindari olympia &amp;c: graec: &amp; latine. 1508</item>
+               <item>Hesiodi opera graec: &amp; larine. <hi>Lugd</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>14</item>
+               <item>Catechismus grae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: &amp; latine <hi>Lond:</hi> 1648</item>
+               <item>Breviarum romanum. <hi>Antwerpi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> 1603</item>
+               <item>Morton Apologia catholica &amp; de notis Ecclesiae</item>
+               <item>Ramus in tres primas Liberales artes. 1595</item>
+               <item>Calvini epistolae &amp; responsa. <hi>Hanoviae</hi> 1597</item>
+               <item>Heurnii methodus ad praxin medicam</item>
+               <item>Bozius de signis Ecclesiae Dei. <hi>Coloniae</hi> 1593</item>
+               <item>Buxtorfii Thesaurus linguae sanctae, 1609</item>
+               <item>Munsteri Dictionarium Hebraicum 1548</item>
+               <item>Pezelii argumenta &amp; responsiones Theolog: 3 vol</item>
+               <item>Donaldsoni synopsiis oeconimica. <hi>Parisiis</hi> 1620</item>
+               <item>Luciani opera graece &amp; latine 3 vol: <hi>Basiliae</hi>
+               </item>
+               <item>Raits Vindication of the reformed Religion,</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="250"/> maresii Antichristus revelatus. <hi>Amstel:</hi> 42</item>
+               <item>Dissertatio de vera philosophia. <hi>Hamburgi</hi> 65</item>
+               <item>Goveani logica, <hi>Dublini</hi> 1683</item>
+               <item>Bucanus in Orationem dominicam 1606</item>
+               <item>Aristologia pindarica Graeco &amp; latina: <hi>Basiliae</hi>
+               </item>
+               <item>Isocratis oratio panegyrica Helenae laudatio,</item>
+               <item>Robertsons hebrew text of the Psalms, <hi>lond:</hi> 56</item>
+               <item>Donaldsoni synopsis phylosophiae moralis 04</item>
+               <item>Demosthenis orationes graece &amp; latine, <hi>Francof:</hi> 85</item>
+               <item>Neander de re poetica Graecorum <hi>lipsiae</hi> 92</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="260"/> Euclidis elementa graece &amp; latine, <hi>Argenti</hi> 63</item>
+               <item>Moulins confutation of purgatory, <hi>Oxfoord</hi> 12</item>
+               <item>Eraimus de copia verborum.</item>
+               <item>Florilegium Epigrammatum pure graece.</item>
+               <item>Rollocus in Romanos.</item>
+               <item>Proclus de sphaera Clcomedis graec: &amp; lat:</item>
+               <pb n="22" facs="tcp:175546:12"/>
+               <item> Posselii Syntaxis linguae grecae, <hi>lugduni</hi> 1626</item>
+               <item>Lavaterus de delcensu Christi ad inferos <hi>Fran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Eustachii phylosophia, <hi>Iugduni Battavorum</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Commentar in orationem Cicer: pro Milon<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="270"/> Pareus in epistolam ad Galateas, <hi>Genevae</hi> 14</item>
+               <item>Sennerti institutio medicinae, 2 vol: <hi>Witteberg</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Appollonii jus majestatis circa sacra, 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Barles English grammar. <hi>Londini</hi> 165<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Gales dis: of the saints Amitie with God in Christ <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Pacii Isagoge in Institutiones imperiales,</item>
+               <item>Monumenta Westmonasteriensia, <hi>londini</hi> 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Baronii metaphysica: ibid 155<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Calvinus redivivus or conformity of Ch: of Eng<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Gardinerus circa sacram Trinitatem, ibid</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="280"/> Cornwalleys essayes ibid: 32</item>
+               <item>Brydals short view of London, ibid: 76</item>
+               <item>Moors history of the Turks in 2 vol: ibid: 63</item>
+               <item>Juvenalis &amp; Persius cum notis variorum <hi>lugdu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Michaelis mestlingi-Epitome astronomiae. <hi>Tub<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Reids practice of Chirurgery. <hi>london</hi> 1687</item>
+               <item>Contemplations moral and divine. ibid: 7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>The academy of complements, ibid: 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>The merchants dayly Companion. ibid. 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Buchannani historia Scotiae.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="390"/> Irvini Nomenclatura Historiae Scoticae.</item>
+               <item>Gee on prayer. <hi>London</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Rami Grammatica <hi>Lugduni:</hi> 1589</item>
+               <item>Allans Heaven opened. <hi>London</hi> 65</item>
+               <item>Winstanley's Englands Worthies ibid: 84</item>
+               <item>Culpepers compleat midwise. ibld: 80</item>
+               <item>Owens nature of Apostasie ibid: 76</item>
+               <item>Pelegroms sylva synonimorum ibid: 39</item>
+               <pb n="23" facs="tcp:175546:12"/>
+               <item> Digestorum pars secunda, <hi>parisiis</hi> 32</item>
+               <item>Hypolitus de ma rsiliis de Questionibus,</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="300"/> Ciceronis Epistolae familiares, <hi>Antverpiae</hi> 21</item>
+               <item>Gymnasii dantiscani systema logicae <hi>fran:</hi> 41</item>
+               <item>Muretii notae in institutiones <hi>Lugduni bat:</hi> 02</item>
+               <item>Aristotelis parva naturalia seu de Coelo, &amp;c:</item>
+               <item>Rami dialectica, <hi>Francofurti</hi> 94</item>
+               <item>The French school-master, <hi>london</hi> 19</item>
+               <item>Ciceronis Officia idid 26</item>
+               <item>Dictons Latines avec leur interpret: en Grec: &amp; fran:</item>
+               <item>Quintus curtius en francois, <hi>A paris</hi> 29</item>
+               <item>Isocratis Orationes &amp; Epistolae 04</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>10 L'astree de messire, <hi>A paris</hi> 31</item>
+               <item>Caesaris Commentaria, <hi>lugduni bata:</hi> 19</item>
+               <item>Rabbii Abrahami Catechismus judeorum <hi>lon:</hi> 76</item>
+               <item>McKenzies Idea Eloquentiae <hi>Edinbugi</hi> 81</item>
+            </list>
+            <list>
+               <head>BOOKS in Duodecimo.</head>
+               <item>MAchiavelli princeps, <hi>lugduni</hi> 48</item>
+               <item>Frolichii cynosura peregrinantium <hi>Ʋlinae</hi> 43</item>
+               <item>Manutii Elegantiae, <hi>leodi</hi> 1593</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anaei Aphorismi politici &amp; militares <hi>lugd</hi> 39</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iceron is selectae Orationes, <hi>Amstelod:</hi> 57</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chotani Examen: Juridicum, ibid: 39</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aconi interiora rerum. <hi>lugduni</hi> 41</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ictys &amp; Daretis hist: Belli Troj: &amp; Alex<g ref="char:EOLhyphen"/>andrini hist: Romanorum,</item>
+               <item>Taciti Annales, <hi>Amstelod</hi> 54</item>
+               <pb n="24" facs="tcp:175546:13"/>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Revellus de Rupella obsessa &amp; capta ibid: 49</item>
+               <item>Vinnii selectae Questiones juris, <hi>Roterod:</hi> 7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Justiniani institutiones, 160<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Discours politiques &amp; militaires <hi>Genevae</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Osiandri Enchiridion controversiarum</item>
+               <item>Le Tombeau de la messe. <hi>Amstelod:</hi> 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Durantis Tract: de arte Testandi &amp; cautelis,</item>
+               <item>Lamentationes obscurorum virorum, <hi>Coloniae</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Les pseaumes de David, 164<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>La, verite Defendue des safismes de la france</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> Ganvveti amicus medicorum, <hi>Francof.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Trelcatii loci communes, ibid. 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Aphthonii progymnasmata, 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Pomereschius in institutiones, <hi>Genev.</hi> 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Synopsis acto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um colloquii Thoruniensis &amp; Confessio reformatorum</item>
+               <item>Peschwitz de repressaliis <hi>leowardiae</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Anatomie de la messe &amp; du messel. 156<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>La derniere semaine ou consumation du monde. 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Sande Epitome Hist: Belgicarum <hi>Ʋltrajecti</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Vaudi variae Questiones Juris. <hi>Hanovioe</hi> 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> Les lettres de Mr. de voitur. 166<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Dialogues fransois. 7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Bronchorst de diversis regulis juris. <hi>francofurti</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Junii Epistolae. <hi>Dordrechti</hi> 155<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Rime &amp; prose dim Giovanni della casa. 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Hattyseri analysis juris feudalis. <hi>August:</hi> 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Voet de statutis eorum{que} concursu. <hi>Amstel:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Lusitani Aphorismi confessariorum. <hi>Romae</hi> 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Discorsi molto curiosi epolitichi d'Ro<g ref="char:EOLhyphen"/>ma difranca. <hi>Parisiis</hi> 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <pb n="25" facs="tcp:175546:13"/>
+               <item> Carmina missellanea esacris ficeris. <hi>Amst:</hi> 50</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="40"/> Aristotelis aliorumque problemata. ibid. 50</item>
+               <item>Berecovicius in Hippocratis Apho<g ref="char:EOLhyphen"/>rismum de calculo 42</item>
+               <item>Burgersdicii collegium physicum. <hi>lugd:</hi> 42</item>
+               <item>Della claelia Historia Romana.</item>
+               <item>Memaire pour seruir a L'Hist: d'angleterre.</item>
+               <item>Dat Boeck der psalmen, <hi>Amstelodami</hi> 01</item>
+               <item>Titi Livii decas. I. IIII. V. VI.</item>
+               <item>Florus Germanicus Seu gestorum in Germania Lib: 4</item>
+               <item>Florus illustrium poetarum. <hi>Genev:</hi> 1630</item>
+               <item>Senguerdii collegium Ethicum, <hi>Amstel</hi> 30</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="50"/> Respublica Muscoviae. <hi>Lugduni</hi> 30</item>
+               <item>Respub. Litzenburgenfis Han<g ref="char:EOLhyphen"/>noviae &amp; Namburgensis. i635</item>
+               <item>Respub: Hispaniae. ibid:</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>espub: Belgii soederati. ibid 30</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esaris commentaria. <hi>Amstelodami:</hi> i636</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>peri institutiones physicae, <hi>Lugduni.</hi> 47</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>meri odyflea Graece &amp; latine. i619</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vidii opera, <hi>Amstelodami</hi> 34</item>
+               <item>The compleat Tradesmans companion, <hi>London</hi> 89</item>
+               <item>Leteres choises du Sr de Balzac. i648</item>
+               <item>Bunyan on the Sabbath, ibid: 85</item>
+               <item>Bastwicks flagellum pontificum, ibid 31</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>allers tragical history of Jetzer, ibid: 80</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mmentarius de francorum regis dominiis.</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abroni phylosophia 72</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, Andrew Grays Sermons.</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vidii metamorphosis,</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mpendium universi sive geographia. <hi>Colon:</hi> 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x orientalis concerning the preaexistance of souls.</item>
+               <item>Plavels treatise of fear, <hi>Edinburgh</hi> 84</item>
+               <pb n="26" facs="tcp:175546:14"/>
+               <item> 70 Corvinijus canonicum per Aphorismos, &amp;c:</item>
+               <item>Bacon de augmentis Scientiarum,</item>
+               <item>Corvini institutiones imperiales, <hi>Amstelodami</hi> 40</item>
+               <item>Rows Grammatica Hebraea, <hi>Glasgne</hi> 1644</item>
+               <item>Bosquicri monomachia Jesu Christi. <hi>Duaci</hi> 07</item>
+               <item>Taurelli philosophiae triumphus,</item>
+               <item>Leusdens com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endium Biblicum,</item>
+               <item>Pagnini liber psalmorum hebraic, &amp; latine.</item>
+               <item>Officium beata<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mariae Virginis <hi>Parisiis</hi> 1506</item>
+               <item>Rami dialectica <hi>Cantabridgiae:</hi> 1672</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="80"/> Sanfleri Aristotelis thesaurus 1587</item>
+               <item>The whole duty of man, <hi>Edin:</hi> 1678</item>
+               <item>Vincents Catchism. ibid: 1678</item>
+               <item>Shindeleri epitome Bibliorum. 1578</item>
+               <item>Divine meditations upon several occasions,</item>
+               <item>Buchananni paraphrasis psalmorum.</item>
+               <item>Merceri Grammatica caldaica. <hi>Witteberge</hi> 157<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Walton dissertatio de linguis orientalibus. 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Lodovici vivis introductio ad sapientiam <hi>Aber:</hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Euclidis Elementa. <hi>Colonie</hi> 158<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="90"/> Recantationes Fabiani Quadraintini <hi>lovani</hi> 157<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Thriveri methodus medicinae <hi>lugd: bat:</hi> 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Watsonii synopsis totius philosophiae. <hi>Braeniae</hi> 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Hug de Roy de eo quod Justum est. <hi>Ʋltraj ecti</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Speculum juridico Hist: politicum. <hi>Amstelod:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Rutgersii metaphysica. <hi>Lugduni bat:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Robertsons Hebrew Text of the Psalms <hi>lond:</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Triglandius de civili &amp; Ecclesiastica potestate.</item>
+               <item>Pharmacopaeia ultrajectina <hi>Trajecti.</hi>
+               </item>
+               <item>Amphitryon comedie.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="100"/> Explicatio &amp; usus Ephemeridis.</item>
+               <pb n="27" facs="tcp:175546:14"/>
+               <item> Celsus de re medica.</item>
+               <item>Huberus de ratione juris docendi &amp; discendi. 84</item>
+               <item>Phylosophiae d'amourde m<seg rend="sup">c</seg> Leon <hi>Paris</hi> 1577</item>
+               <item>Novum Testamentum.</item>
+               <item>Psams of David. <hi>Edinburgh</hi> 71</item>
+               <item>Quintus Curtius. <hi>Amstelodami</hi> 50</item>
+               <item>Homeri Ilias. <hi>Genev:</hi> 21</item>
+               <item>Ciceronis Orationum volumen primum <hi>lond:</hi> 16</item>
+               <item>Erasmus de copia verborum.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="110"/> Ciceronis Orationum vol: 3 <hi>London</hi> 80</item>
+               <item>Zinigrefii poemata.</item>
+               <item>Lightbodi Grammatica. <hi>Edinburgi</hi> 60</item>
+               <item>Confessio Ecclesi: Belgicarum Graece &amp; Latine.</item>
+               <item>Castalionis Dialogi sacri.</item>
+               <item>Les comptes face cieux.</item>
+               <item>Suetonus Tranquillus.</item>
+               <item>Belloni Antinomiarum juris dissolutiones.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
